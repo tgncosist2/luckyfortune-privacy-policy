@@ -1,6 +1,6 @@
 # Lucky Fortune Privacy Policy
 
-This privacy policy applies to the Lucky Fortune app (“Application”) developed by **[개발자 이름 또는 팀 이름]** (“Service Provider”) as an Ad Supported service. This service is provided “AS IS”.
+This privacy policy applies to the Lucky Fortune app (“Application”) developed by **[Mr.Kang]** (“Service Provider”) as an Ad Supported service. This service is provided “AS IS”.
 
 ### Information Collection and Use
 For a better experience, while using the Application, the Service Provider may require you to provide certain personally identifiable information (“PII”), including but not limited to: Name, Date of Birth, and Time of Birth. For analysis, you may voluntarily provide: Facial Photo and Palm Photo.
@@ -32,7 +32,7 @@ If you have any questions about this Privacy Policy, please contact us at: taege
 
 # Lucky Fortune 개인정보 처리방침
 
-본 개인정보 처리방침은 **[개발자 이름 또는 팀 이름]**("서비스 제공자")가 광고 지원 서비스로 개발한 Lucky Fortune 앱("앱")에 적용됩니다. 본 서비스는 "있는 그대로" 제공됩니다.
+본 개인정보 처리방침은 **[Mr.Kang]**("서비스 제공자")가 광고 지원 서비스로 개발한 Lucky Fortune 앱("앱")에 적용됩니다. 본 서비스는 "있는 그대로" 제공됩니다.
 
 ### 정보의 수집 및 이용
 더 나은 경험을 제공하기 위해, 서비스 제공자는 앱 사용 중에 이름, 생년월일, 태어난 시와 같은 특정 개인 식별 정보("PII")를 요구할 수 있습니다. 또한, 운세 분석을 위해 사용자는 자발적으로 얼굴 사진 및 손금 사진을 제공할 수 있습니다.
